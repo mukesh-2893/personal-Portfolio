@@ -23,10 +23,18 @@ const NavBar = () => {
   return (
     <header className="w-full px-32 py-8 font-medium flex items-center justify-between">
       <nav>
-        <CustomLink href="/" title="home" className="mr-4" />
-        <CustomLink href="/" title="about" className="mx-4" />
-        <CustomLink href="/" title="experience" className="mx-4" />
-        <CustomLink href="/" title="education" ml-4 />
+        <CustomLink href="/personal-Portfolio/" title="home" className="mr-4" />
+        <CustomLink
+          href="/personal-Portfolio/"
+          title="about"
+          className="mx-4"
+        />
+        <CustomLink
+          href="/personal-Portfolio/"
+          title="experience"
+          className="mx-4"
+        />
+        <CustomLink href="/personal-Portfolio/" title="education" ml-4 />
       </nav>
       <nav className="flex items-center justify-center flex-wrap">
         <motion.a href="/" className="w-8 mr-8" whileHover={{ scale: 1.5 }}>
