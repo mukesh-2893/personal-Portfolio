@@ -2,7 +2,6 @@ import React from "react";
 import Logo from "./Logo";
 import { motion } from "framer-motion";
 import { DribbbleIcon, GithubIcon, LinkedInIcon, TwitterIcon } from "./Icons";
-import { Link } from "react-router-dom";
 
 const CustomLink = ({ href, title, className = "" }) => {
   const path = window.location.pathname;
@@ -41,7 +40,11 @@ const NavBar = () => {
           title="experience"
           className="mx-4"
         />
-        <CustomLink href="/personal-Portfolio/" title="education" ml-4 />
+        <CustomLink
+          href="/personal-Portfolio/education"
+          title="education"
+          ml-4
+        />
       </nav>
       <nav className="flex items-center justify-center flex-wrap">
         <motion.a
