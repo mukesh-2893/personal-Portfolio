@@ -32,12 +32,12 @@ const NavBar = () => {
       <nav>
         <CustomLink href="/personal-Portfolio/" title="home" className="mr-4" />
         <CustomLink
-          href="/personal-Portfolio/about"
+          href="/personal-Portfolio/about/"
           title="about"
           className="mx-4"
         />
         <CustomLink
-          href="/personal-Portfolio/experience"
+          href="/personal-Portfolio/experience/"
           title="experience"
           className="mx-4"
         />
