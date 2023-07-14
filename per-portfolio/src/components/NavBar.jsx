@@ -37,7 +37,7 @@ const NavBar = () => {
           className="mx-4"
         />
         <CustomLink
-          href="/personal-Portfolio/"
+          href="/personal-Portfolio/experience"
           title="experience"
           className="mx-4"
         />

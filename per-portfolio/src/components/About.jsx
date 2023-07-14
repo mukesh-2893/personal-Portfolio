@@ -3,6 +3,7 @@ import AnimatedText from "./AnimatedText";
 import Image from "./images/MukeshImage.jpg";
 import Layout from "./Layout";
 import { AnimatedNumbers } from "./AnimatedNumbers";
+import Skills from "./Skills";
 
 const About = () => {
   return (
@@ -44,6 +45,7 @@ const About = () => {
           </div>
         </div>
       </Layout>
+      <Skills />
     </>
   );
 };
