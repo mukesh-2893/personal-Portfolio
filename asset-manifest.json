@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-Portfolio/static/css/main.9a0b8b5e.css",
+    "main.js": "/personal-Portfolio/static/js/main.60fd361b.js",
+    "static/media/MukeshImage.jpg": "/personal-Portfolio/static/media/MukeshImage.6deb4cdd7ee17fa473ae.jpg",
+    "static/media/programmer.png": "/personal-Portfolio/static/media/programmer.777cb6683261205b9b8e.png",
+    "static/media/MUkesh__Resume.pdf": "/personal-Portfolio/static/media/MUkesh__Resume.926784c2873c687559b6.pdf",
+    "index.html": "/personal-Portfolio/index.html",
+    "main.9a0b8b5e.css.map": "/personal-Portfolio/static/css/main.9a0b8b5e.css.map",
+    "main.60fd361b.js.map": "/personal-Portfolio/static/js/main.60fd361b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a0b8b5e.css",
+    "static/js/main.60fd361b.js"
+  ]
+}
